@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "vuepwa",
+  "workspaces": [
+    "apps/lottie",
+    "apps/otherapp"
+  ],
+  "scripts": {
+    "build": "yarn workspaces run build",
+    "lottie": "yarn workspace @myapps/lottie build",
+    "otherapp": "yarn workspace @myapps/otherapp build"
+  }
+}
