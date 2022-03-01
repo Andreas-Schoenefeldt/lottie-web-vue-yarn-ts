@@ -1,5 +1,5 @@
 # lottie-web-vue-yarn-ts
-Yarn workspace test project
+Yarn workspace test project with lottie web view and typescript
 
 ## To Reproduce:
 
